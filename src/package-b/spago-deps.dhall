@@ -1,0 +1,1 @@
+[ "effect", "console", "psci-support" ]

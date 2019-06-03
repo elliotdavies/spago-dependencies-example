@@ -1,0 +1,11 @@
+{
+  "name": "spago-dependencies-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elliot Davies <elliot.a.davies@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "purescript": "^0.12.5",
+    "spago": "^0.8.1"
+  }
+}
